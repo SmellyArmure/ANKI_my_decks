@@ -4,7 +4,7 @@ _________________________________________
 
 Miscellaneous | Computing, Data Science, Statistics
 _________________________________________
-## DATA SCIENCE MM 2020-221 (909)
+## DATA SCIENCE MM 2020-2021 (909)
 Gestion des listes, chaînes, regex, dictionnaires, tuples, zips, sets en Python
 Algorithmes, boucles, list comprehensions, générateurs, fonctions en Python, bonnes pratiques et compact code
 Pandas, numpy et autre packages/modules utiles (manipulation DataFrames et Series)
