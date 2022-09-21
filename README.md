@@ -21,6 +21,14 @@ Cours de Mathieu Nebra | OpenClassrooms | Reprenez le contrôle avec Linux
 
 ## SPARK MM 2021 (25)
 Appris pendant le projet 8 du parcours data science openclassrooms (déployer un modèle sur le cloud)
+
+## SQL MM 2021
+
+## HTML et CSS 2021
+
+## Python Kivy (dév python J. Roux)
+
+=======
 __________________
 ## Python interview (53)
 ________________
